@@ -8,6 +8,12 @@
 	<string>Allow access to camera</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Allow access to micophone</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Turn on your location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Requires location to be on</string>
+	<key>UIBackgroundModes</key>
+	<string>location</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
